@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Zerobut1's GitHub stats](https://github-readme-stats.vercel.app/api?username=佐木了&show_icons=true&theme=transparent)
+[![佐木了's GitHub stats](https://github-readme-stats.vercel.app/api?username=zerobut1)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **zerobut1/zerobut1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
